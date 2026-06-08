@@ -1,0 +1,5 @@
+# Cloudflare Pages redirects
+# Friendly aliases for the Citoyen privacy policy (moved from site root).
+/privacy            /privacy/citoyen   301
+/citoyen            /privacy/citoyen   301
+/privacy-policy     /privacy/citoyen   301
